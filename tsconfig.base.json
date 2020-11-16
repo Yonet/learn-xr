@@ -16,7 +16,8 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@learnxr/ays-babylon": ["libs/ays-babylon/src/index.ts"]
+      "@learnxr/ays-babylon": ["libs/ays-babylon/src/index.ts"],
+      "@learn-xr/node": ["libs/node/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]

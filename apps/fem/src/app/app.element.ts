@@ -4,14 +4,14 @@ export class AppElement extends HTMLElement {
   public static observedAttributes = [];
 
   connectedCallback() {
-    const title = 'fem';
+    const title = 'Learn WebXR';
     this.innerHTML = `
       <header class="flex">
-    <h1>Welcome to ${title}!</h1>
-</header>
-<main>
-<canvas></canvas>
-</main>
+        <h1>Welcome to ${title}!</h1>
+      </header>
+      <main>
+        <canvas></canvas>
+      </main>
     `;
   }
 }

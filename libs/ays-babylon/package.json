@@ -7,5 +7,17 @@
   },
   "bugs": {
     "url": "https://github.com/Yonet/learn-xr/issues"
+  },
+  "keywords": [
+    "Babylon.js",
+    "WebXR",
+    "getting started",
+    "typescript",
+    "es6"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@babylonjs/core": "^4.2.0",
+    "@babylonjs/loaders": "^4.2.0"
   }
 }
