@@ -1,0 +1,11 @@
+{
+  "name": "@learnxr/ays-babylon",
+  "version": "0.0.1",
+  "author": {
+    "name": "Ayşegül Yönet",
+    "url": "https://github.com/Yonet/learn-xr"
+  },
+  "bugs": {
+    "url": "https://github.com/Yonet/learn-xr/issues"
+  }
+}
